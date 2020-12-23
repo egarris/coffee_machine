@@ -1,3 +1,5 @@
+# Coffee Machine
+
 This is the 3rd project I completed as part of JetBrains Academy's Python Developer track.
 
 From the project's description (https://hyperskill.org/projects/68?track=2):
